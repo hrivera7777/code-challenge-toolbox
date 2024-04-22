@@ -55,3 +55,5 @@ web_modules/
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+## remove dist folder
+web-app/dist
